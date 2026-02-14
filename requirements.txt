@@ -1,0 +1,16 @@
+﻿# --- Data Manipulation --- 
+pandas 
+numpy 
+
+
+# --- Visualization --- 
+matplotlib 
+seaborn 
+plotly 
+
+
+# --- Statistics and Modeling --- 
+statsmodels 
+scipy 
+networkx 
+scikit-learn
